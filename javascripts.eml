@@ -1,0 +1,137 @@
+MIME-Version: 1.0
+Date: Wed, 23 Jul 2025 08:15:20 -0300
+Message-ID: <CABiP=6JyWLSD0UmNDpdtT1CL6co3mdhK3M9otHYRPL8zsC5EWg@mail.gmail.com>
+Subject: javascripts
+From: Gugu Henri <gustalegal12@gmail.com>
+To: cruzpedrocruz013@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000125920063a96d3c6"
+
+--000000000000125920063a96d3c6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+function calcular() {
+    const v1 =3D parseFloat(document.getElementById("valor1").value);
+    const v2 =3D parseFloat(document.getElementById("valor2").value);
+    const op =3D document.getElementById("operacao").value;
+    let resultado;
+
+    if (isNaN(v1) || isNaN(v2)) {
+        alert("Por favor, insira n=C3=BAmeros v=C3=A1lidos.");
+        return;
+    }
+
+    switch(op) {
+        case '+':
+            resultado =3D v1 + v2;
+            break;
+        case '-':
+            resultado =3D v1 - v2;
+            break;
+        case '*':
+            resultado =3D v1 * v2;
+            break;
+        case '/':
+            if (v2 =3D=3D=3D 0) {
+                alert("Divis=C3=A3o por zero n=C3=A3o =C3=A9 permitida.");
+                return;
+            }
+            resultado =3D v1 / v2;
+            break;
+        default:
+            alert("Opera=C3=A7=C3=A3o inv=C3=A1lida.");
+            return;
+    }
+
+    alert("Resultado: " + resultado);
+}
+
+--000000000000125920063a96d3c6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"color:rgb(204,204,204);background-color:rgb(=
+31,31,31);font-family:Consolas,&quot;Courier New&quot;,monospace;font-size:=
+14px;line-height:19px;white-space:pre"><div><span style=3D"color:rgb(86,156=
+,214)">function</span> <span style=3D"color:rgb(220,220,170)">calcular</spa=
+n>() {</div><div>=C2=A0 =C2=A0 <span style=3D"color:rgb(86,156,214)">const<=
+/span> <span style=3D"color:rgb(79,193,255)">v1</span> <span style=3D"color=
+:rgb(212,212,212)">=3D</span> <span style=3D"color:rgb(220,220,170)">parseF=
+loat</span>(<span style=3D"color:rgb(156,220,254)">document</span>.<span st=
+yle=3D"color:rgb(220,220,170)">getElementById</span>(<span style=3D"color:r=
+gb(206,145,120)">&quot;valor1&quot;</span>).<span style=3D"color:rgb(156,22=
+0,254)">value</span>);</div><div>=C2=A0 =C2=A0 <span style=3D"color:rgb(86,=
+156,214)">const</span> <span style=3D"color:rgb(79,193,255)">v2</span> <spa=
+n style=3D"color:rgb(212,212,212)">=3D</span> <span style=3D"color:rgb(220,=
+220,170)">parseFloat</span>(<span style=3D"color:rgb(156,220,254)">document=
+</span>.<span style=3D"color:rgb(220,220,170)">getElementById</span>(<span =
+style=3D"color:rgb(206,145,120)">&quot;valor2&quot;</span>).<span style=3D"=
+color:rgb(156,220,254)">value</span>);</div><div>=C2=A0 =C2=A0 <span style=
+=3D"color:rgb(86,156,214)">const</span> <span style=3D"color:rgb(79,193,255=
+)">op</span> <span style=3D"color:rgb(212,212,212)">=3D</span> <span style=
+=3D"color:rgb(156,220,254)">document</span>.<span style=3D"color:rgb(220,22=
+0,170)">getElementById</span>(<span style=3D"color:rgb(206,145,120)">&quot;=
+operacao&quot;</span>).<span style=3D"color:rgb(156,220,254)">value</span>;=
+</div><div>=C2=A0 =C2=A0 <span style=3D"color:rgb(86,156,214)">let</span> <=
+span style=3D"color:rgb(156,220,254)">resultado</span>;</div><br><div>=C2=
+=A0 =C2=A0 <span style=3D"color:rgb(197,134,192)">if</span> (<span style=3D=
+"color:rgb(220,220,170)">isNaN</span>(<span style=3D"color:rgb(79,193,255)"=
+>v1</span>) <span style=3D"color:rgb(212,212,212)">||</span> <span style=3D=
+"color:rgb(220,220,170)">isNaN</span>(<span style=3D"color:rgb(79,193,255)"=
+>v2</span>)) {</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:r=
+gb(220,220,170)">alert</span>(<span style=3D"color:rgb(206,145,120)">&quot;=
+Por favor, insira n=C3=BAmeros v=C3=A1lidos.&quot;</span>);</div><div>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(197,134,192)">return</spa=
+n>;</div><div>=C2=A0 =C2=A0 }</div><br><div>=C2=A0 =C2=A0 <span style=3D"co=
+lor:rgb(197,134,192)">switch</span>(<span style=3D"color:rgb(79,193,255)">o=
+p</span>) {</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(=
+197,134,192)">case</span> <span style=3D"color:rgb(206,145,120)">&#39;+&#39=
+;</span>:</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=
+=3D"color:rgb(156,220,254)">resultado</span> <span style=3D"color:rgb(212,2=
+12,212)">=3D</span> <span style=3D"color:rgb(79,193,255)">v1</span> <span s=
+tyle=3D"color:rgb(212,212,212)">+</span> <span style=3D"color:rgb(79,193,25=
+5)">v2</span>;</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span st=
+yle=3D"color:rgb(197,134,192)">break</span>;</div><div>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 <span style=3D"color:rgb(197,134,192)">case</span> <span style=3D"c=
+olor:rgb(206,145,120)">&#39;-&#39;</span>:</div><div>=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(156,220,254)">resultado</span=
+> <span style=3D"color:rgb(212,212,212)">=3D</span> <span style=3D"color:rg=
+b(79,193,255)">v1</span> <span style=3D"color:rgb(212,212,212)">-</span> <s=
+pan style=3D"color:rgb(79,193,255)">v2</span>;</div><div>=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(197,134,192)">break</span=
+>;</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(197,134,1=
+92)">case</span> <span style=3D"color:rgb(206,145,120)">&#39;*&#39;</span>:=
+</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:r=
+gb(156,220,254)">resultado</span> <span style=3D"color:rgb(212,212,212)">=
+=3D</span> <span style=3D"color:rgb(79,193,255)">v1</span> <span style=3D"c=
+olor:rgb(212,212,212)">*</span> <span style=3D"color:rgb(79,193,255)">v2</s=
+pan>;</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"co=
+lor:rgb(197,134,192)">break</span>;</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <=
+span style=3D"color:rgb(197,134,192)">case</span> <span style=3D"color:rgb(=
+206,145,120)">&#39;/&#39;</span>:</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 <span style=3D"color:rgb(197,134,192)">if</span> (<span style=3D=
+"color:rgb(79,193,255)">v2</span> <span style=3D"color:rgb(212,212,212)">=
+=3D=3D=3D</span> <span style=3D"color:rgb(181,206,168)">0</span>) {</div><d=
+iv>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"c=
+olor:rgb(220,220,170)">alert</span>(<span style=3D"color:rgb(206,145,120)">=
+&quot;Divis=C3=A3o por zero n=C3=A3o =C3=A9 permitida.&quot;</span>);</div>=
+<div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D=
+"color:rgb(197,134,192)">return</span>;</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 }</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <sp=
+an style=3D"color:rgb(156,220,254)">resultado</span> <span style=3D"color:r=
+gb(212,212,212)">=3D</span> <span style=3D"color:rgb(79,193,255)">v1</span>=
+ <span style=3D"color:rgb(212,212,212)">/</span> <span style=3D"color:rgb(7=
+9,193,255)">v2</span>;</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+<span style=3D"color:rgb(197,134,192)">break</span>;</div><div>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(197,134,192)">default</span>:</d=
+iv><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(=
+220,220,170)">alert</span>(<span style=3D"color:rgb(206,145,120)">&quot;Ope=
+ra=C3=A7=C3=A3o inv=C3=A1lida.&quot;</span>);</div><div>=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(197,134,192)">return</spa=
+n>;</div><div>=C2=A0 =C2=A0 }</div><br><div>=C2=A0 =C2=A0 <span style=3D"co=
+lor:rgb(220,220,170)">alert</span>(<span style=3D"color:rgb(206,145,120)">&=
+quot;Resultado: &quot;</span> <span style=3D"color:rgb(212,212,212)">+</spa=
+n> <span style=3D"color:rgb(156,220,254)">resultado</span>);</div><div>}</d=
+iv></div></div>
+
+--000000000000125920063a96d3c6--
