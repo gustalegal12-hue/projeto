@@ -1,0 +1,587 @@
+MIME-Version: 1.0
+Date: Wed, 7 May 2025 08:21:11 -0300
+Message-ID: <CABiP=6Ln9tJ9_yHNHm8vgc5+zQ+O-bw581aRh4PTfSsLUo-GTg@mail.gmail.com>
+Subject: 
+From: Gugu Henri <gustalegal12@gmail.com>
+To: "joao0212vaz@gmail.com" <joao0212vaz@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000003248c1063489eeaa"
+
+--0000000000003248c1063489eeaa
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"pt-BR">
+<head>
+  <meta charset=3D"UTF-8">
+  <title>Cadastro com Tabela</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #cc0000;
+    }
+
+    .container {
+      width: 600px;
+      margin: 20px auto;
+      border: 1px solid #000;
+    }
+
+    .top-bar, .bottom-bar {
+      background-color: #cc0000;
+      height: 30px;
+    }
+
+    .titulo {
+      color: brown;
+      font-weight: bold;
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px auto;
+    }
+
+    td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+
+    input[type=3D"text"],
+    input[type=3D"password"],
+    select,
+    textarea {
+      width: 95%;
+    }
+
+    .checkbox,
+    .buttons {
+      text-align: center;
+      padding: 10px;
+    }
+
+    .rodape {
+      text-align: center;
+      font-size: 12px;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body text=3D"red">
+  <div class=3D"top-bar"></div>
+  <div class=3D"titulo">=F0=9F=8D=95 Cadastre-se e receba nossas atualiza=
+=C3=A7=C3=B5es</div>
+
+  <form>
+    <table>
+      <tr>
+        <td align=3D"right">Nome:</td>
+        <td><input type=3D"text" name=3D"nome"></td>
+      </tr>
+      <tr>
+        <td align=3D"right">Senha:</td>
+        <td><input type=3D"password" name=3D"senha"></td>
+      </tr>
+      <tr>
+        <td align=3D"right">Confirma=C3=A7=C3=A3o de senha:</td>
+        <td><input type=3D"password" name=3D"confirmar"></td>
+      </tr>
+      <tr>
+        <td align=3D"right">Seu tipo de Pizza preferido:</td>
+        <td>
+          <select name=3D"pizza">
+            <option>Margherita</option>
+            <option>Calabresa</option>
+            <option>Portuguesa</option>
+            <option>Frango com Catupiry</option>
+            <option>siciliana</option>
+            <option>Especial do chefe</option>
+            <option>Bacon</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td align=3D"right">Quantas vezes come Pizza por mes?</td>
+        <td>
+          <input type=3D"radio" name=3D"frequencia" value=3D"1-5"> Entre 1 =
+a 5<br>
+          <input type=3D"radio" name=3D"frequencia" value=3D"5-10"> 5 a 10<=
+br>
+          <input type=3D"radio" name=3D"frequencia" value=3D"10+"> Mais de =
+10
+        </td>
+      </tr>
+      <tr>
+        <td align=3D"right">Coment=C3=A1rio:</td>
+        <td><textarea name=3D"comentario" rows=3D"3"></textarea></td>
+      </tr>
+      <tr>
+        <td align=3D"center" colspan=3D"2">
+          <input type=3D"checkbox" name=3D"emails" checked>
+         <move right>   </move>Deseja receber e-mails dos nossos parceiros
+        </td>
+      </tr>
+      <tr>
+        <td colspan=3D"2" class=3D"buttons">
+          <input type=3D"submit" value=3D"Enviar">
+          <input type=3D"reset" value=3D"Limpar">
+        </td>
+      </tr>
+    </table>
+  </form>
+
+  <div class=3D"rodape">
+    www.pizzaonline.com.br
+  </div>
+  <div class=3D"bottom-bar"></div>
+</div>
+
+</body>
+</html>
+
+--0000000000003248c1063489eeaa
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"color:rgb(204,204,204);background-color:rgb(=
+31,31,31);font-family:Consolas,&quot;Courier New&quot;,monospace;font-size:=
+14px;line-height:19px;white-space:pre"><div><span style=3D"color:rgb(128,12=
+8,128)">&lt;!</span><span style=3D"color:rgb(86,156,214)">DOCTYPE</span> <s=
+pan style=3D"color:rgb(156,220,254)">html</span><span style=3D"color:rgb(12=
+8,128,128)">&gt;</span></div><div><span style=3D"color:rgb(128,128,128)">&l=
+t;</span><span style=3D"color:rgb(86,156,214)">html</span> <span style=3D"c=
+olor:rgb(156,220,254)">lang</span>=3D<span style=3D"color:rgb(206,145,120)"=
+>&quot;pt-BR&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</span>=
+</div><div><span style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D=
+"color:rgb(86,156,214)">head</span><span style=3D"color:rgb(128,128,128)">&=
+gt;</span></div><div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</sp=
+an><span style=3D"color:rgb(86,156,214)">meta</span> <span style=3D"color:r=
+gb(156,220,254)">charset</span>=3D<span style=3D"color:rgb(206,145,120)">&q=
+uot;UTF-8&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</span></d=
+iv><div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span styl=
+e=3D"color:rgb(86,156,214)">title</span><span style=3D"color:rgb(128,128,12=
+8)">&gt;</span>Cadastro com Tabela<span style=3D"color:rgb(128,128,128)">&l=
+t;/</span><span style=3D"color:rgb(86,156,214)">title</span><span style=3D"=
+color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 <span style=3D"color:r=
+gb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">style</sp=
+an><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div><span style=
+=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 </span><span style=3D"color:rgb(2=
+15,186,125)">body</span><span style=3D"color:rgb(212,212,212)"> {</span></d=
+iv><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span>=
+<span style=3D"color:rgb(156,220,254)">font-family</span><span style=3D"col=
+or:rgb(212,212,212)">: </span><span style=3D"color:rgb(206,145,120)">Arial<=
+/span><span style=3D"color:rgb(212,212,212)">, </span><span style=3D"color:=
+rgb(206,145,120)">sans-serif</span><span style=3D"color:rgb(212,212,212)">;=
+</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=
+=A0 </span><span style=3D"color:rgb(156,220,254)">color</span><span style=
+=3D"color:rgb(212,212,212)">: </span><span style=3D"color:rgb(206,145,120)"=
+>#cc0000</span><span style=3D"color:rgb(212,212,212)">;</span></div><div><s=
+pan style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 }</span></div><br><div><=
+span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 </span><span style=3D"c=
+olor:rgb(215,186,125)">.container</span><span style=3D"color:rgb(212,212,21=
+2)"> {</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=
+=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">width</span><span =
+style=3D"color:rgb(212,212,212)">: </span><span style=3D"color:rgb(181,206,=
+168)">600px</span><span style=3D"color:rgb(212,212,212)">;</span></div><div=
+><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span s=
+tyle=3D"color:rgb(156,220,254)">margin</span><span style=3D"color:rgb(212,2=
+12,212)">: </span><span style=3D"color:rgb(181,206,168)">20px</span><span s=
+tyle=3D"color:rgb(212,212,212)"> </span><span style=3D"color:rgb(206,145,12=
+0)">auto</span><span style=3D"color:rgb(212,212,212)">;</span></div><div><s=
+pan style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span styl=
+e=3D"color:rgb(156,220,254)">border</span><span style=3D"color:rgb(212,212,=
+212)">: </span><span style=3D"color:rgb(181,206,168)">1px</span><span style=
+=3D"color:rgb(212,212,212)"> </span><span style=3D"color:rgb(206,145,120)">=
+solid</span><span style=3D"color:rgb(212,212,212)"> </span><span style=3D"c=
+olor:rgb(206,145,120)">#000</span><span style=3D"color:rgb(212,212,212)">;<=
+/span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 }</sp=
+an></div><br><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 </sp=
+an><span style=3D"color:rgb(215,186,125)">.top-bar</span><span style=3D"col=
+or:rgb(212,212,212)">, </span><span style=3D"color:rgb(215,186,125)">.botto=
+m-bar</span><span style=3D"color:rgb(212,212,212)"> {</span></div><div><spa=
+n style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=
+=3D"color:rgb(156,220,254)">background-color</span><span style=3D"color:rgb=
+(212,212,212)">: </span><span style=3D"color:rgb(206,145,120)">#cc0000</spa=
+n><span style=3D"color:rgb(212,212,212)">;</span></div><div><span style=3D"=
+color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rg=
+b(156,220,254)">height</span><span style=3D"color:rgb(212,212,212)">: </spa=
+n><span style=3D"color:rgb(181,206,168)">30px</span><span style=3D"color:rg=
+b(212,212,212)">;</span></div><div><span style=3D"color:rgb(212,212,212)">=
+=C2=A0 =C2=A0 }</span></div><br><div><span style=3D"color:rgb(212,212,212)"=
+>=C2=A0 =C2=A0 </span><span style=3D"color:rgb(215,186,125)">.titulo</span>=
+<span style=3D"color:rgb(212,212,212)"> {</span></div><div><span style=3D"c=
+olor:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb=
+(156,220,254)">color</span><span style=3D"color:rgb(212,212,212)">: </span>=
+<span style=3D"color:rgb(206,145,120)">brown</span><span style=3D"color:rgb=
+(212,212,212)">;</span></div><div><span style=3D"color:rgb(212,212,212)">=
+=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">font-wei=
+ght</span><span style=3D"color:rgb(212,212,212)">: </span><span style=3D"co=
+lor:rgb(206,145,120)">bold</span><span style=3D"color:rgb(212,212,212)">;</=
+span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0=
+ </span><span style=3D"color:rgb(156,220,254)">padding</span><span style=3D=
+"color:rgb(212,212,212)">: </span><span style=3D"color:rgb(181,206,168)">10=
+px</span><span style=3D"color:rgb(212,212,212)">;</span></div><div><span st=
+yle=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"c=
+olor:rgb(156,220,254)">font-size</span><span style=3D"color:rgb(212,212,212=
+)">: </span><span style=3D"color:rgb(181,206,168)">16px</span><span style=
+=3D"color:rgb(212,212,212)">;</span></div><div><span style=3D"color:rgb(212=
+,212,212)">=C2=A0 =C2=A0 }</span></div><br><div><span style=3D"color:rgb(21=
+2,212,212)">=C2=A0 =C2=A0 </span><span style=3D"color:rgb(215,186,125)">tab=
+le</span><span style=3D"color:rgb(212,212,212)"> {</span></div><div><span s=
+tyle=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"=
+color:rgb(156,220,254)">width</span><span style=3D"color:rgb(212,212,212)">=
+: </span><span style=3D"color:rgb(181,206,168)">100%</span><span style=3D"c=
+olor:rgb(212,212,212)">;</span></div><div><span style=3D"color:rgb(212,212,=
+212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">bo=
+rder-collapse</span><span style=3D"color:rgb(212,212,212)">: </span><span s=
+tyle=3D"color:rgb(206,145,120)">collapse</span><span style=3D"color:rgb(212=
+,212,212)">;</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0=
+ =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">margin</span><=
+span style=3D"color:rgb(212,212,212)">: </span><span style=3D"color:rgb(181=
+,206,168)">10px</span><span style=3D"color:rgb(212,212,212)"> </span><span =
+style=3D"color:rgb(206,145,120)">auto</span><span style=3D"color:rgb(212,21=
+2,212)">;</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =
+=C2=A0 }</span></div><br><div><span style=3D"color:rgb(212,212,212)">=C2=A0=
+ =C2=A0 </span><span style=3D"color:rgb(215,186,125)">td</span><span style=
+=3D"color:rgb(212,212,212)"> {</span></div><div><span style=3D"color:rgb(21=
+2,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,25=
+4)">border</span><span style=3D"color:rgb(212,212,212)">: </span><span styl=
+e=3D"color:rgb(181,206,168)">1px</span><span style=3D"color:rgb(212,212,212=
+)"> </span><span style=3D"color:rgb(206,145,120)">solid</span><span style=
+=3D"color:rgb(212,212,212)"> </span><span style=3D"color:rgb(206,145,120)">=
+black</span><span style=3D"color:rgb(212,212,212)">;</span></div><div><span=
+ style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=
+=3D"color:rgb(156,220,254)">padding</span><span style=3D"color:rgb(212,212,=
+212)">: </span><span style=3D"color:rgb(181,206,168)">8px</span><span style=
+=3D"color:rgb(212,212,212)">;</span></div><div><span style=3D"color:rgb(212=
+,212,212)">=C2=A0 =C2=A0 }</span></div><br><div><span style=3D"color:rgb(21=
+2,212,212)">=C2=A0 =C2=A0 </span><span style=3D"color:rgb(215,186,125)">inp=
+ut</span><span style=3D"color:rgb(212,212,212)">[</span><span style=3D"colo=
+r:rgb(156,220,254)">type</span><span style=3D"color:rgb(212,212,212)">=3D</=
+span><span style=3D"color:rgb(206,145,120)">&quot;text&quot;</span><span st=
+yle=3D"color:rgb(212,212,212)">],</span></div><div><span style=3D"color:rgb=
+(212,212,212)">=C2=A0 =C2=A0 </span><span style=3D"color:rgb(215,186,125)">=
+input</span><span style=3D"color:rgb(212,212,212)">[</span><span style=3D"c=
+olor:rgb(156,220,254)">type</span><span style=3D"color:rgb(212,212,212)">=
+=3D</span><span style=3D"color:rgb(206,145,120)">&quot;password&quot;</span=
+><span style=3D"color:rgb(212,212,212)">],</span></div><div><span style=3D"=
+color:rgb(212,212,212)">=C2=A0 =C2=A0 </span><span style=3D"color:rgb(215,1=
+86,125)">select</span><span style=3D"color:rgb(212,212,212)">,</span></div>=
+<div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 </span><span styl=
+e=3D"color:rgb(215,186,125)">textarea</span><span style=3D"color:rgb(212,21=
+2,212)"> {</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =
+=C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">width</span><sp=
+an style=3D"color:rgb(212,212,212)">: </span><span style=3D"color:rgb(181,2=
+06,168)">95%</span><span style=3D"color:rgb(212,212,212)">;</span></div><di=
+v><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 }</span></div><br><d=
+iv><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 </span><span style=
+=3D"color:rgb(215,186,125)">.checkbox</span><span style=3D"color:rgb(212,21=
+2,212)">,</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =
+=C2=A0 </span><span style=3D"color:rgb(215,186,125)">.buttons</span><span s=
+tyle=3D"color:rgb(212,212,212)"> {</span></div><div><span style=3D"color:rg=
+b(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,22=
+0,254)">text-align</span><span style=3D"color:rgb(212,212,212)">: </span><s=
+pan style=3D"color:rgb(206,145,120)">center</span><span style=3D"color:rgb(=
+212,212,212)">;</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=
+=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">padding</sp=
+an><span style=3D"color:rgb(212,212,212)">: </span><span style=3D"color:rgb=
+(181,206,168)">10px</span><span style=3D"color:rgb(212,212,212)">;</span></=
+div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 }</span></div=
+><br><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 </span><span=
+ style=3D"color:rgb(215,186,125)">.rodape</span><span style=3D"color:rgb(21=
+2,212,212)"> {</span></div><div><span style=3D"color:rgb(212,212,212)">=C2=
+=A0 =C2=A0 =C2=A0 </span><span style=3D"color:rgb(156,220,254)">text-align<=
+/span><span style=3D"color:rgb(212,212,212)">: </span><span style=3D"color:=
+rgb(206,145,120)">center</span><span style=3D"color:rgb(212,212,212)">;</sp=
+an></div><div><span style=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 <=
+/span><span style=3D"color:rgb(156,220,254)">font-size</span><span style=3D=
+"color:rgb(212,212,212)">: </span><span style=3D"color:rgb(181,206,168)">12=
+px</span><span style=3D"color:rgb(212,212,212)">;</span></div><div><span st=
+yle=3D"color:rgb(212,212,212)">=C2=A0 =C2=A0 =C2=A0 </span><span style=3D"c=
+olor:rgb(156,220,254)">padding</span><span style=3D"color:rgb(212,212,212)"=
+>: </span><span style=3D"color:rgb(181,206,168)">5px</span><span style=3D"c=
+olor:rgb(212,212,212)">;</span></div><div><span style=3D"color:rgb(212,212,=
+212)">=C2=A0 =C2=A0 }</span></div><div><span style=3D"color:rgb(212,212,212=
+)">=C2=A0 </span><span style=3D"color:rgb(128,128,128)">&lt;/</span><span s=
+tyle=3D"color:rgb(86,156,214)">style</span><span style=3D"color:rgb(128,128=
+,128)">&gt;</span></div><div><span style=3D"color:rgb(128,128,128)">&lt;/</=
+span><span style=3D"color:rgb(86,156,214)">head</span><span style=3D"color:=
+rgb(128,128,128)">&gt;</span></div><div><span style=3D"color:rgb(128,128,12=
+8)">&lt;</span><span style=3D"color:rgb(86,156,214)">body</span> <span styl=
+e=3D"color:rgb(156,220,254)">text</span>=3D<span style=3D"color:rgb(206,145=
+,120)">&quot;red&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</s=
+pan></div><div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><sp=
+an style=3D"color:rgb(86,156,214)">div</span> <span style=3D"color:rgb(156,=
+220,254)">class</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;top-b=
+ar&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;&lt;/</span><span=
+ style=3D"color:rgb(86,156,214)">div</span><span style=3D"color:rgb(128,128=
+,128)">&gt;</span></div><div>=C2=A0 <span style=3D"color:rgb(128,128,128)">=
+&lt;</span><span style=3D"color:rgb(86,156,214)">div</span> <span style=3D"=
+color:rgb(156,220,254)">class</span>=3D<span style=3D"color:rgb(206,145,120=
+)">&quot;titulo&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</sp=
+an>=F0=9F=8D=95 Cadastre-se e receba nossas atualiza=C3=A7=C3=B5es<span sty=
+le=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,2=
+14)">div</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><br>=
+<div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span style=
+=3D"color:rgb(86,156,214)">form</span><span style=3D"color:rgb(128,128,128)=
+">&gt;</span></div><div>=C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)=
+">&lt;</span><span style=3D"color:rgb(86,156,214)">table</span><span style=
+=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <spa=
+n style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,1=
+56,214)">tr</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><=
+div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;=
+</span><span style=3D"color:rgb(86,156,214)">td</span> <span style=3D"color=
+:rgb(244,71,71)">align</span>=3D<span style=3D"color:rgb(206,145,120)">&quo=
+t;right&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</span>Nome:=
+<span style=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb=
+(86,156,214)">td</span><span style=3D"color:rgb(128,128,128)">&gt;</span></=
+div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)"=
+>&lt;</span><span style=3D"color:rgb(86,156,214)">td</span><span style=3D"c=
+olor:rgb(128,128,128)">&gt;&lt;</span><span style=3D"color:rgb(86,156,214)"=
+>input</span> <span style=3D"color:rgb(156,220,254)">type</span>=3D<span st=
+yle=3D"color:rgb(206,145,120)">&quot;text&quot;</span> <span style=3D"color=
+:rgb(156,220,254)">name</span>=3D<span style=3D"color:rgb(206,145,120)">&qu=
+ot;nome&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;&lt;/</span>=
+<span style=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128=
+,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:=
+rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">tr</spa=
+n><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=
+=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D=
+"color:rgb(86,156,214)">tr</span><span style=3D"color:rgb(128,128,128)">&gt=
+;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128=
+,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">td</span> <span=
+ style=3D"color:rgb(244,71,71)">align</span>=3D<span style=3D"color:rgb(206=
+,145,120)">&quot;right&quot;</span><span style=3D"color:rgb(128,128,128)">&=
+gt;</span>Senha:<span style=3D"color:rgb(128,128,128)">&lt;/</span><span st=
+yle=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128,128,128=
+)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:r=
+gb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">td</span>=
+<span style=3D"color:rgb(128,128,128)">&gt;&lt;</span><span style=3D"color:=
+rgb(86,156,214)">input</span> <span style=3D"color:rgb(156,220,254)">type</=
+span>=3D<span style=3D"color:rgb(206,145,120)">&quot;password&quot;</span> =
+<span style=3D"color:rgb(156,220,254)">name</span>=3D<span style=3D"color:r=
+gb(206,145,120)">&quot;senha&quot;</span><span style=3D"color:rgb(128,128,1=
+28)">&gt;&lt;/</span><span style=3D"color:rgb(86,156,214)">td</span><span s=
+tyle=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =
+<span style=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb=
+(86,156,214)">tr</span><span style=3D"color:rgb(128,128,128)">&gt;</span></=
+div><div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</=
+span><span style=3D"color:rgb(86,156,214)">tr</span><span style=3D"color:rg=
+b(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span sty=
+le=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,21=
+4)">td</span> <span style=3D"color:rgb(244,71,71)">align</span>=3D<span sty=
+le=3D"color:rgb(206,145,120)">&quot;right&quot;</span><span style=3D"color:=
+rgb(128,128,128)">&gt;</span>Confirma=C3=A7=C3=A3o de senha:<span style=3D"=
+color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">t=
+d</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><sp=
+an style=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128,12=
+8,128)">&gt;&lt;</span><span style=3D"color:rgb(86,156,214)">input</span> <=
+span style=3D"color:rgb(156,220,254)">type</span>=3D<span style=3D"color:rg=
+b(206,145,120)">&quot;password&quot;</span> <span style=3D"color:rgb(156,22=
+0,254)">name</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;confirma=
+r&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;&lt;/</span><span =
+style=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128,128,1=
+28)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(12=
+8,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">tr</span><spa=
+n style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=
+=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:=
+rgb(86,156,214)">tr</span><span style=3D"color:rgb(128,128,128)">&gt;</span=
+></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,12=
+8)">&lt;</span><span style=3D"color:rgb(86,156,214)">td</span> <span style=
+=3D"color:rgb(244,71,71)">align</span>=3D<span style=3D"color:rgb(206,145,1=
+20)">&quot;right&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</s=
+pan>Seu tipo de Pizza preferido:<span style=3D"color:rgb(128,128,128)">&lt;=
+/</span><span style=3D"color:rgb(86,156,214)">td</span><span style=3D"color=
+:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span =
+style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156=
+,214)">td</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><di=
+v>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)"=
+>&lt;</span><span style=3D"color:rgb(86,156,214)">select</span> <span style=
+=3D"color:rgb(156,220,254)">name</span>=3D<span style=3D"color:rgb(206,145,=
+120)">&quot;pizza&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</=
+span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"co=
+lor:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">opti=
+on</span><span style=3D"color:rgb(128,128,128)">&gt;</span>Margherita<span =
+style=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,15=
+6,214)">option</span><span style=3D"color:rgb(128,128,128)">&gt;</span></di=
+v><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(1=
+28,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">option</span>=
+<span style=3D"color:rgb(128,128,128)">&gt;</span>Calabresa<span style=3D"c=
+olor:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">op=
+tion</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128=
+)">&lt;</span><span style=3D"color:rgb(86,156,214)">option</span><span styl=
+e=3D"color:rgb(128,128,128)">&gt;</span>Portuguesa<span style=3D"color:rgb(=
+128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">option</spa=
+n><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;=
+</span><span style=3D"color:rgb(86,156,214)">option</span><span style=3D"co=
+lor:rgb(128,128,128)">&gt;</span>Frango com Catupiry<span style=3D"color:rg=
+b(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">option</s=
+pan><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;=
+</span><span style=3D"color:rgb(86,156,214)">option</span><span style=3D"co=
+lor:rgb(128,128,128)">&gt;</span>siciliana<span style=3D"color:rgb(128,128,=
+128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">option</span><span =
+style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><sp=
+an style=3D"color:rgb(86,156,214)">option</span><span style=3D"color:rgb(12=
+8,128,128)">&gt;</span>Especial do chefe<span style=3D"color:rgb(128,128,12=
+8)">&lt;/</span><span style=3D"color:rgb(86,156,214)">option</span><span st=
+yle=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><spa=
+n style=3D"color:rgb(86,156,214)">option</span><span style=3D"color:rgb(128=
+,128,128)">&gt;</span>Bacon<span style=3D"color:rgb(128,128,128)">&lt;/</sp=
+an><span style=3D"color:rgb(86,156,214)">option</span><span style=3D"color:=
+rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+<span style=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb=
+(86,156,214)">select</span><span style=3D"color:rgb(128,128,128)">&gt;</spa=
+n></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,1=
+28)">&lt;/</span><span style=3D"color:rgb(86,156,214)">td</span><span style=
+=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <spa=
+n style=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,=
+156,214)">tr</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div>=
+<div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span=
+><span style=3D"color:rgb(86,156,214)">tr</span><span style=3D"color:rgb(12=
+8,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=
+=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)=
+">td</span> <span style=3D"color:rgb(244,71,71)">align</span>=3D<span style=
+=3D"color:rgb(206,145,120)">&quot;right&quot;</span><span style=3D"color:rg=
+b(128,128,128)">&gt;</span>Quantas vezes come Pizza por mes?<span style=3D"=
+color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">t=
+d</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><sp=
+an style=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128,12=
+8,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span styl=
+e=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214=
+)">input</span> <span style=3D"color:rgb(156,220,254)">type</span>=3D<span =
+style=3D"color:rgb(206,145,120)">&quot;radio&quot;</span> <span style=3D"co=
+lor:rgb(156,220,254)">name</span>=3D<span style=3D"color:rgb(206,145,120)">=
+&quot;frequencia&quot;</span> <span style=3D"color:rgb(156,220,254)">value<=
+/span>=3D<span style=3D"color:rgb(206,145,120)">&quot;1-5&quot;</span><span=
+ style=3D"color:rgb(128,128,128)">&gt;</span> Entre 1 a 5<span style=3D"col=
+or:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">br</s=
+pan><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span>=
+<span style=3D"color:rgb(86,156,214)">input</span> <span style=3D"color:rgb=
+(156,220,254)">type</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;r=
+adio&quot;</span> <span style=3D"color:rgb(156,220,254)">name</span>=3D<spa=
+n style=3D"color:rgb(206,145,120)">&quot;frequencia&quot;</span> <span styl=
+e=3D"color:rgb(156,220,254)">value</span>=3D<span style=3D"color:rgb(206,14=
+5,120)">&quot;5-10&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;<=
+/span> 5 a 10<span style=3D"color:rgb(128,128,128)">&lt;</span><span style=
+=3D"color:rgb(86,156,214)">br</span><span style=3D"color:rgb(128,128,128)">=
+&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"col=
+or:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">input=
+</span> <span style=3D"color:rgb(156,220,254)">type</span>=3D<span style=3D=
+"color:rgb(206,145,120)">&quot;radio&quot;</span> <span style=3D"color:rgb(=
+156,220,254)">name</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;fr=
+equencia&quot;</span> <span style=3D"color:rgb(156,220,254)">value</span>=
+=3D<span style=3D"color:rgb(206,145,120)">&quot;10+&quot;</span><span style=
+=3D"color:rgb(128,128,128)">&gt;</span> Mais de 10</div><div>=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;/</span><span styl=
+e=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128,128,128)"=
+>&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,12=
+8,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">tr</span><span st=
+yle=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <=
+span style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(8=
+6,156,214)">tr</span><span style=3D"color:rgb(128,128,128)">&gt;</span></di=
+v><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&=
+lt;</span><span style=3D"color:rgb(86,156,214)">td</span> <span style=3D"co=
+lor:rgb(244,71,71)">align</span>=3D<span style=3D"color:rgb(206,145,120)">&=
+quot;right&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;</span>Co=
+ment=C3=A1rio:<span style=3D"color:rgb(128,128,128)">&lt;/</span><span styl=
+e=3D"color:rgb(86,156,214)">td</span><span style=3D"color:rgb(128,128,128)"=
+>&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb=
+(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">td</span><s=
+pan style=3D"color:rgb(128,128,128)">&gt;&lt;</span><span style=3D"color:rg=
+b(86,156,214)">textarea</span> <span style=3D"color:rgb(156,220,254)">name<=
+/span>=3D<span style=3D"color:rgb(206,145,120)">&quot;comentario&quot;</spa=
+n> <span style=3D"color:rgb(156,220,254)">rows</span>=3D<span style=3D"colo=
+r:rgb(206,145,120)">&quot;3&quot;</span><span style=3D"color:rgb(128,128,12=
+8)">&gt;&lt;/</span><span style=3D"color:rgb(86,156,214)">textarea</span><s=
+pan style=3D"color:rgb(128,128,128)">&gt;&lt;/</span><span style=3D"color:r=
+gb(86,156,214)">td</span><span style=3D"color:rgb(128,128,128)">&gt;</span>=
+</div><div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;=
+/</span><span style=3D"color:rgb(86,156,214)">tr</span><span style=3D"color=
+:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <span style=
+=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)=
+">tr</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span>=
+<span style=3D"color:rgb(86,156,214)">td</span> <span style=3D"color:rgb(24=
+4,71,71)">align</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;cente=
+r&quot;</span> <span style=3D"color:rgb(156,220,254)">colspan</span>=3D<spa=
+n style=3D"color:rgb(206,145,120)">&quot;2&quot;</span><span style=3D"color=
+:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ <span style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D"color:rgb=
+(86,156,214)">input</span> <span style=3D"color:rgb(156,220,254)">type</spa=
+n>=3D<span style=3D"color:rgb(206,145,120)">&quot;checkbox&quot;</span> <sp=
+an style=3D"color:rgb(156,220,254)">name</span>=3D<span style=3D"color:rgb(=
+206,145,120)">&quot;emails&quot;</span> <span style=3D"color:rgb(156,220,25=
+4)">checked</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><=
+div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0<span style=3D"color:rgb(128,128,128)=
+">&lt;</span><span style=3D"color:rgb(86,156,214)">move</span> <span style=
+=3D"color:rgb(156,220,254)">right</span><span style=3D"color:rgb(128,128,12=
+8)">&gt;</span> =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;/</span><=
+span style=3D"color:rgb(86,156,214)">move</span><span style=3D"color:rgb(12=
+8,128,128)">&gt;</span>Deseja receber e-mails dos nossos parceiros</div><di=
+v>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;/<=
+/span><span style=3D"color:rgb(86,156,214)">td</span><span style=3D"color:r=
+gb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 <span style=3D"=
+color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">t=
+r</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0=
+ =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span styl=
+e=3D"color:rgb(86,156,214)">tr</span><span style=3D"color:rgb(128,128,128)"=
+>&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb=
+(128,128,128)">&lt;</span><span style=3D"color:rgb(86,156,214)">td</span> <=
+span style=3D"color:rgb(156,220,254)">colspan</span>=3D<span style=3D"color=
+:rgb(206,145,120)">&quot;2&quot;</span> <span style=3D"color:rgb(156,220,25=
+4)">class</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;buttons&quo=
+t;</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;=
+</span><span style=3D"color:rgb(86,156,214)">input</span> <span style=3D"co=
+lor:rgb(156,220,254)">type</span>=3D<span style=3D"color:rgb(206,145,120)">=
+&quot;submit&quot;</span> <span style=3D"color:rgb(156,220,254)">value</spa=
+n>=3D<span style=3D"color:rgb(206,145,120)">&quot;Enviar&quot;</span><span =
+style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span styl=
+e=3D"color:rgb(86,156,214)">input</span> <span style=3D"color:rgb(156,220,2=
+54)">type</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;reset&quot;=
+</span> <span style=3D"color:rgb(156,220,254)">value</span>=3D<span style=
+=3D"color:rgb(206,145,120)">&quot;Limpar&quot;</span><span style=3D"color:r=
+gb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <span st=
+yle=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,=
+214)">td</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div=
+>=C2=A0 =C2=A0 =C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;/</span><s=
+pan style=3D"color:rgb(86,156,214)">tr</span><span style=3D"color:rgb(128,1=
+28,128)">&gt;</span></div><div>=C2=A0 =C2=A0 <span style=3D"color:rgb(128,1=
+28,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">table</span><spa=
+n style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 <span style=
+=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214=
+)">form</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><br><=
+div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;</span><span style=3D=
+"color:rgb(86,156,214)">div</span> <span style=3D"color:rgb(156,220,254)">c=
+lass</span>=3D<span style=3D"color:rgb(206,145,120)">&quot;rodape&quot;</sp=
+an><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div>=C2=A0 =C2=
+=A0 <a href=3D"http://www.pizzaonline.com.br">www.pizzaonline.com.br</a></d=
+iv><div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;/</span><span sty=
+le=3D"color:rgb(86,156,214)">div</span><span style=3D"color:rgb(128,128,128=
+)">&gt;</span></div><div>=C2=A0 <span style=3D"color:rgb(128,128,128)">&lt;=
+</span><span style=3D"color:rgb(86,156,214)">div</span> <span style=3D"colo=
+r:rgb(156,220,254)">class</span>=3D<span style=3D"color:rgb(206,145,120)">&=
+quot;bottom-bar&quot;</span><span style=3D"color:rgb(128,128,128)">&gt;&lt;=
+/</span><span style=3D"color:rgb(86,156,214)">div</span><span style=3D"colo=
+r:rgb(128,128,128)">&gt;</span></div><div><span style=3D"color:rgb(128,128,=
+128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">div</span><span sty=
+le=3D"color:rgb(128,128,128)">&gt;</span></div><br><div><span style=3D"colo=
+r:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,214)">body<=
+/span><span style=3D"color:rgb(128,128,128)">&gt;</span></div><div><span st=
+yle=3D"color:rgb(128,128,128)">&lt;/</span><span style=3D"color:rgb(86,156,=
+214)">html</span><span style=3D"color:rgb(128,128,128)">&gt;</span></div></=
+div></div>
+
+--0000000000003248c1063489eeaa--
